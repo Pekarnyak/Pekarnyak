@@ -7,7 +7,7 @@
 **7+ years building backend services, distributed systems, and full-stack applications**
 
 [![Email](https://img.shields.io/badge/Email-Contact-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tckachenckogrigorij@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/grigorij](https://www.linkedin.com/in/grigorii-tkachenko-golang/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grigorii-tkachenko-golang/)
 [![GitHub](https://img.shields.io/badge/GitHub-Pekarnyak-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pekarnyak)
 
 </div>
